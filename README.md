@@ -1,1 +1,1 @@
-momentum-boriskaminskiy.vercel.app
+https://momentum-boriskaminskiy.vercel.app
